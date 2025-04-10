@@ -1,0 +1,45 @@
+# Core Python dependencies
+setuptools==68.2.2
+wheel==0.41.3
+cython==0.29.37
+
+# Kivy and mobile dependencies
+kivy==2.2.1
+kivymd==1.1.1
+pyjnius==1.5.0
+
+
+# Networking and async
+requests==2.31.0
+python-socketio==5.8.0
+eventlet==0.33.3
+bidict==0.22.1
+
+# Security and authentication
+pyjwt==2.8.0
+python-dotenv==1.0.0
+python-engineio==4.6.0
+
+# Database and data handling
+SQLAlchemy==2.0.23
+marshmallow==3.19.0
+python-dateutil==2.8.2
+
+
+
+# Image processing
+Pillow==10.1.0
+
+# Flask stack (if using web components)
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+Flask-Bcrypt==1.0.1
+Flask-JWT-Extended==4.5.2
+Flask-Cors==4.0.0
+Flask-SocketIO==5.3.6
+
+
+
+# Development utilities
+
+debugpy==1.8.0  # For VS Code debugging

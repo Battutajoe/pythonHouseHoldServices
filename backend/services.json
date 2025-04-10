@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "category": "cleaning",
+    "name": "House Cleaning",
+    "price": 3500,
+    "currency": "KES",
+    "description": "Full house cleaning service, including living room, bedrooms, and kitchen.",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "category": "cleaning",
+    "name": "Couch Cleaning",
+    "price": 2500,
+    "currency": "KES",
+    "description": "Professional couch cleaning to remove stains and odors.",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "category": "cleaning",
+    "name": "Toilet Cleaning",
+    "price": 3000,
+    "currency": "KES",
+    "description": "Thorough toilet cleaning and sanitization.",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "category": "cleaning",
+    "name": "Car Cleaning",
+    "price": 1200,
+    "currency": "KES",
+    "description": "Exterior and interior car cleaning, including vacuuming and polishing.",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "category": "cleaning",
+    "name": "Laundry",
+    "price": 2000,
+    "currency": "KES",
+    "description": "Washing, drying, and ironing services for your clothes.",
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "category": "cleaning",
+    "name": "Dry Cleaning",
+    "price": 1500,
+    "currency": "KES",
+    "description": "Professional dry cleaning for delicate fabrics.",
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "category": "food",
+    "name": "Fries",
+    "price": 170,
+    "currency": "KES",
+    "description": "Crispy french fries served with ketchup.",
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "category": "food",
+    "name": "KFC Meal",
+    "price": 230,
+    "currency": "KES",
+    "description": "Fried chicken meal with fries and a drink.",
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "category": "food",
+    "name": "Smokies",
+    "price": 50,
+    "currency": "KES",
+    "description": "Grilled sausages served with chili sauce.",
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "category": "food",
+    "name": "Hotdog",
+    "price": 300,
+    "currency": "KES",
+    "description": "Classic hotdog with toppings of your choice.",
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "category": "food",
+    "name": "Bread",
+    "price": 65,
+    "currency": "KES",
+    "description": "Freshly baked bread, perfect for breakfast.",
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "category": "food",
+    "name": "Cakes",
+    "price": 1500,
+    "currency": "KES",
+    "description": "Custom cakes for birthdays, weddings, and special occasions.",
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "category": "food",
+    "name": "Meat",
+    "price": 600,
+    "currency": "KES",
+    "description": "Fresh meat, perfect for grilling or stews.",
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "category": "food",
+    "name": "Fish",
+    "price": 750,
+    "currency": "KES",
+    "description": "Fresh fish, cleaned and ready for cooking.",
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "category": "food",
+    "name": "Chicken",
+    "price": 700,
+    "currency": "KES",
+    "description": "Fresh chicken, cleaned and cut into pieces.",
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "category": "food",
+    "name": "Blended Juice",
+    "price": 250,
+    "currency": "KES",
+    "description": "Freshly blended juice made from seasonal fruits.",
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "category": "groceries",
+    "name": "Onions",
+    "price": 50,
+    "currency": "KES",
+    "description": "Fresh onions, perfect for cooking.",
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "category": "groceries",
+    "name": "Tomatoes",
+    "price": 50,
+    "currency": "KES",
+    "description": "Fresh tomatoes, ideal for salads and cooking.",
+    "is_active": true
+  },
+  {
+    "id": 19,
+    "category": "groceries",
+    "name": "Pepper",
+    "price": 50,
+    "currency": "KES",
+    "description": "Fresh pepper, adds flavor to your dishes.",
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "category": "groceries",
+    "name": "Kales",
+    "price": 50,
+    "currency": "KES",
+    "description": "Fresh kales, rich in vitamins and minerals.",
+    "is_active": true
+  },
+  {
+    "id": 21,
+    "category": "groceries",
+    "name": "Cabbages",
+    "price": 50,
+    "currency": "KES",
+    "description": "Fresh cabbages, perfect for salads and stews.",
+    "is_active": true
+  },
+  {
+    "id": 22,
+    "category": "groceries",
+    "name": "Green Pepper",
+    "price": 50,
+    "currency": "KES",
+    "description": "Fresh green pepper, adds a mild flavor to dishes.",
+    "is_active": true
+  },
+  {
+    "id": 23,
+    "category": "groceries",
+    "name": "Coriander",
+    "price": 50,
+    "currency": "KES",
+    "description": "Fresh coriander, perfect for garnishing and flavoring.",
+    "is_active": true
+  },
+  {
+    "id": 24,
+    "category": "fruits",
+    "name": "Mango",
+    "price": 100,
+    "currency": "KES",
+    "description": "Fresh mangoes, sweet and juicy.",
+    "is_active": true
+  },
+  {
+    "id": 25,
+    "category": "fruits",
+    "name": "Banana",
+    "price": 100,
+    "currency": "KES",
+    "description": "Fresh bananas, rich in potassium.",
+    "is_active": true
+  },
+  {
+    "id": 26,
+    "category": "fruits",
+    "name": "Watermelon",
+    "price": 350,
+    "currency": "KES",
+    "description": "Fresh watermelon, perfect for hydration.",
+    "is_active": true
+  },
+  {
+    "id": 27,
+    "category": "fruits",
+    "name": "Grapes",
+    "price": 300,
+    "currency": "KES",
+    "description": "Fresh grapes, sweet and seedless.",
+    "is_active": true
+  },
+  {
+    "id": 28,
+    "category": "fruits",
+    "name": "Strawberry",
+    "price": 300,
+    "currency": "KES",
+    "description": "Fresh strawberries, perfect for desserts.",
+    "is_active": true
+  },
+  {
+    "id": 29,
+    "category": "gardening",
+    "name": "Garbage Collection",
+    "price": 200,
+    "currency": "KES",
+    "description": "Efficient garbage collection service for your home.",
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "category": "gardening",
+    "name": "Landscaping",
+    "price": 1000,
+    "currency": "KES",
+    "description": "Professional landscaping to beautify your outdoor space.",
+    "is_active": true
+  }
+]

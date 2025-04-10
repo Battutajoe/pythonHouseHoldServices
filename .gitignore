@@ -1,0 +1,34 @@
+#IDE files
+.idea/
+.vscode/
+
+# Build system files
+.buildozer/
+bin/
+*.apk
+full_log.txt
+
+#Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+#Secrets
+config.ini
+token.txt
+.env
+
+# Buildozer files
+.venv/
+
+# Frontend-specific ignores
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.npmrc
+
+#Backend-specific ignores
+backend/app.log
+backend/instance/
+backend/__pycache__/
+backend/.venv/
